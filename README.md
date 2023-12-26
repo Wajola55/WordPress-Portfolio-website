@@ -8,7 +8,8 @@ This beautifully crafted online portfolio invites visitors into the world of a s
 The homepage welcomes you with a warm and professional introduction, accompanied by a personal image that adds a friendly touch. 
 It sets the tone for an engaging journey through Wioletta's work.
 
-![01 homepage](https://github.com/Wajola55/WordPress-Portfolio-website/assets/118658753/2d3522d5-4d2a-4ad1-bc42-113856e86682)
+![01 home](https://github.com/Wajola55/WordPress-Portfolio-website/assets/118658753/d3d4ff3a-a4c5-4435-a458-e383be6b4526)
+
 
 #### Skills Section:
 Explore a comprehensive range of web development and design skills, each skill represented by clear and intuitive icons. Wioletta's proficiency in various areas of web development is readily apparent.
