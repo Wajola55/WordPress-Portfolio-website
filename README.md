@@ -1,4 +1,4 @@
-### Wioletta Koczor - Web Developer Portfolio
+## Wioletta Koczor - Web Developer Portfolio
 
 #### Description:
 Wioletta Koczor's Web Developer Portfolio is a showcase of creativity, craftsmanship, and technical expertise. 
